@@ -45,3 +45,9 @@ input{
 h1{
     color: blue;
 }
+#cancelarbotao{
+    float: right;
+}
+.exibir{
+    float: right;
+}
